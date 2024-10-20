@@ -25,7 +25,7 @@ def main(x) :
         if s >= r:
                 res = 'not anti-prime'
         else:
-                res = 'antiprime'
+                res = 'anti-prime'
         return(res)
 
 
