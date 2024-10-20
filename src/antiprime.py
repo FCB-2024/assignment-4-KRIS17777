@@ -23,9 +23,9 @@ def main(x) :
                         a = a + 1
                 l = l - 1
         if s >= r:
-                res = "not anti-prime"
+                res = 'not anti-prime'
         else:
-                res = "prime"
+                res = 'antiprime'
         return(res)
 
 
